@@ -5,3 +5,4 @@ creating new branch is quick
 updating file in master
 creating new branch called feature1 si quick and simple
 add merge operateions
+last update
